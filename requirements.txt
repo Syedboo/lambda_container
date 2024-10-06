@@ -1,0 +1,5 @@
+pandas
+yfinance
+boto3
+transformers
+
